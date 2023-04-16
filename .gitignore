@@ -127,3 +127,6 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+数据.zip
+电离层*/
+notebooks/images/*
